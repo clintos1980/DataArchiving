@@ -1,5 +1,5 @@
-# EncryptionObjectBackup
-T-SQL stored procedure to back up keys and certs associated with column-level encryption
+# DataArchiving
+TSQL code for archiving data from tables
 
 1) If you already have a database you wish to use for archiving, skip this step.  Otherwise, run "1_ArchiveDB.sql" to create a new archive database
 
